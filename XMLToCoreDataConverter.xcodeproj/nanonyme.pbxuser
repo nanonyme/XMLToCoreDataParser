@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC07D0554694100DB518D /* XMLToCoreDataConverter */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* XMLToCoreDataConverter */,
+		);
+		codeSenseManager = FDAFD4741314786600DCDEAD /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					232,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					192,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320108633;
+			PBXWorkspaceStateSaveDate = 320108633;
+		};
+		perUserProjectItems = {
+			FDAFD4C8131815B000DCDEAD /* PBXTextBookmark */ = FDAFD4C8131815B000DCDEAD /* PBXTextBookmark */;
+			FDAFD4C9131815B000DCDEAD /* PBXTextBookmark */ = FDAFD4C9131815B000DCDEAD /* PBXTextBookmark */;
+			FDAFD4CA131815B000DCDEAD /* PBXTextBookmark */ = FDAFD4CA131815B000DCDEAD /* PBXTextBookmark */;
+			FDAFD4CB131815B000DCDEAD /* PBXTextBookmark */ = FDAFD4CB131815B000DCDEAD /* PBXTextBookmark */;
+		};
+		sourceControlManager = FDAFD4731314786600DCDEAD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	AA747D9E0F9514B9006C5449 /* XMLToCoreDataConverter_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 188}";
+		};
+	};
+	D2AAC07D0554694100DB518D /* XMLToCoreDataConverter */ = {
+		activeExec = 0;
+	};
+	FDAFD4731314786600DCDEAD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FDAFD4741314786600DCDEAD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FDAFD4751314788200DCDEAD /* XMLToCoreDataConverter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1328, 780}}";
+			sepNavSelRange = "{1336, 0}";
+			sepNavVisRange = "{937, 703}";
+		};
+	};
+	FDAFD4761314788200DCDEAD /* XMLToCoreDataConverter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 3328}}";
+			sepNavSelRange = "{3421, 0}";
+			sepNavVisRange = "{3245, 425}";
+		};
+	};
+	FDAFD4C8131815B000DCDEAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFD4761314788200DCDEAD /* XMLToCoreDataConverter.m */;
+		name = "XMLToCoreDataConverter.m: 94";
+		rLen = 0;
+		rLoc = 3405;
+		rType = 0;
+		vrLen = 873;
+		vrLoc = 0;
+	};
+	FDAFD4C9131815B000DCDEAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA747D9E0F9514B9006C5449 /* XMLToCoreDataConverter_Prefix.pch */;
+		name = "XMLToCoreDataConverter_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 0;
+	};
+	FDAFD4CA131815B000DCDEAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFD4751314788200DCDEAD /* XMLToCoreDataConverter.h */;
+		name = "XMLToCoreDataConverter.h: 38";
+		rLen = 0;
+		rLoc = 1336;
+		rType = 0;
+		vrLen = 829;
+		vrLoc = 1324;
+	};
+	FDAFD4CB131815B000DCDEAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFD4751314788200DCDEAD /* XMLToCoreDataConverter.h */;
+		name = "XMLToCoreDataConverter.h: 38";
+		rLen = 0;
+		rLoc = 1336;
+		rType = 0;
+		vrLen = 703;
+		vrLoc = 937;
+	};
+}
