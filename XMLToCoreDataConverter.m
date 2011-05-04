@@ -111,7 +111,8 @@ didStartElement : (NSString *) elementName
 	if([self.lastType isEqual:[NSAttributeDescription class]]) {
 		if([self.attributeStack count]) {
 			/*
-			 Be loose and pretend we reached an end tag before this.
+			 Be loose and pretend we reached an attribute
+			 end tag before this.
 			 */
 			[self parser:parser 
 		   didEndElement:elementName 
