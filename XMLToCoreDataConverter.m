@@ -162,6 +162,7 @@ didStartElement : (NSString *) elementName
 			if([self.objectStack count]) {
 				NSManagedObject* object = [self.objectStack lastObject];
 				Class class = NSClassFromString([attribute attributeValueClassName]);
+/* Useless warnings aren't fun, let's make sure we don't emit one even if assertions are disabled */
 #ifndef NS_BLOCK_ASSERTIONS
 				NSString * message = [NSString stringWithFormat:@"Empty XML tag for elementName: %@", [attribute name]];
 #endif
